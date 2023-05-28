@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\labels.tmp" -fI -W+ie -o "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.hex" -d "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.obj" -e "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.eep" -m "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.map" "C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm"

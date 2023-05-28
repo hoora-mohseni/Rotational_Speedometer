@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.41</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>12</LINE></MAIN>
+  <T2_OV_ISR><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>103</LINE></T2_OV_ISR>
+  <CMNDWRT><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>150</LINE></CMNDWRT>
+  <DELAY_2ms><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>225</LINE></DELAY_2ms>
+  <AGAIN><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>94</LINE></AGAIN>
+  <HERE><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>110</LINE></HERE>
+  <RPM><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>118</LINE></RPM>
+  <Bin2ToAsc5><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>236</LINE></Bin2ToAsc5>
+  <LCD><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>124</LINE></LCD>
+  <DATAWRT><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>181</LINE></DATAWRT>
+  <SDELAY><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>209</LINE></SDELAY>
+  <DELAY_100us><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>215</LINE></DELAY_100us>
+  <DR0><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>218</LINE></DR0>
+  <LDR0><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>228</LINE></LDR0>
+  <Bin2ToBcd5><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>259</LINE></Bin2ToBcd5>
+  <Bin2ToAsc5a><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>239</LINE></Bin2ToAsc5a>
+  <Bin2ToAsc5b><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>248</LINE></Bin2ToAsc5b>
+  <Bin2ToAsc5c><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>250</LINE></Bin2ToAsc5c>
+  <Bin2ToDigit><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>289</LINE></Bin2ToDigit>
+  <Bin2ToDigita><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>291</LINE></Bin2ToDigita>
+  <Bin2ToDigitc><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>302</LINE></Bin2ToDigitc>
+  <Bin2ToDigitb><FILE>C:\Users\ShR\Desktop\Shaft Speed\Code Assembly\Shaft_Speed_RPM.asm</FILE><LINE>297</LINE></Bin2ToDigitb>
+ </LABELS>
+</ASSEMBLER_INFO>
